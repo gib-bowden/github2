@@ -1,2 +1,4 @@
-consle.log("help!");
+var cat = "meow";
+consle.log("help!", cat);
 console.log("problemFixed!!!");
+
