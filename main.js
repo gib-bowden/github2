@@ -1,1 +1,3 @@
-consle.log("help!");
+var cat = "meow";
+
+consle.log("help!", cat);
