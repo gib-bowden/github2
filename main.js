@@ -1,4 +1,10 @@
 var cat = "meow";
-consle.log("help!", cat);
+console.log("help!", cat);
 console.log("problemFixed!!!");
 
+var catsContainer = document.getElementById("cats");
+
+catsContainer.innerHTML = cat;
+
+
+console.log(catsContainer);
